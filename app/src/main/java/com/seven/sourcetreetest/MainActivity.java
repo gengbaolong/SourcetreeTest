@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         TextView text = (TextView) findViewById(R.id.text);
         text.setText("修改111");
         text.setText("修改222");
+        text.setText("修改333");
     }
 }
